@@ -1,0 +1,6 @@
+Modelo,MAE,RMSE,R2,Mejores parámetros
+LinearRegression,143976.48950594332,303842.3809434789,0.7134100174097362,"{'regressor__model__fit_intercept': True, 'regressor__model__positive': False}"
+SVR,140091.53114930433,329670.94064652204,0.6626151015127286,"{'regressor__model__C': 10, 'regressor__model__gamma': 'auto', 'regressor__model__kernel': 'rbf'}"
+GradientBoosting,141655.77086478827,335787.713649688,0.6499791559501771,"{'regressor__model__learning_rate': 0.1, 'regressor__model__max_depth': 3, 'regressor__model__n_estimators': 200}"
+RandomForest,149418.07053369432,360724.54418429127,0.5960610878695458,"{'regressor__model__max_depth': 10, 'regressor__model__min_samples_leaf': 1, 'regressor__model__min_samples_split': 5, 'regressor__model__n_estimators': 200}"
+XGBoost,144692.0,363391.31243330514,0.5900665521621704,"{'regressor__model__learning_rate': 0.1, 'regressor__model__max_depth': 5, 'regressor__model__n_estimators': 100}"

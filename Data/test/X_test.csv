@@ -1,0 +1,717 @@
+name,year,km_driven,fuel,seller_type,transmission,owner,age,brand,km_per_year
+Maruti Eeco 7 Seater Standard BSIV,2018,20000,Petrol,Individual,Manual,First Owner,7,Maruti,2857.1428571428573
+Maruti Swift VXi BSIV,2017,39000,Petrol,Dealer,Manual,First Owner,8,Maruti,4875.0
+Toyota Innova 2.5 G (Diesel) 8 Seater,2016,146000,Diesel,Dealer,Manual,First Owner,9,Toyota,16222.222222222224
+Mercedes-Benz C-Class Progressive C 220d,2018,10000,Diesel,Dealer,Automatic,First Owner,7,Mercedes-Benz,1428.571428571429
+Honda Civic 1.8 S MT,2007,70000,Petrol,Individual,Manual,Second Owner,18,Honda,3888.8888888888887
+Mahindra Xylo E4 8S,2010,120000,Diesel,Individual,Manual,Third Owner,15,Mahindra,8000.0
+Hyundai Getz 1.3 GLS,2008,53772,Petrol,Individual,Manual,First Owner,17,Hyundai,3163.0588235294117
+Fiat Punto EVO 1.3 Dynamic,2016,35000,Diesel,Individual,Manual,First Owner,9,Fiat,3888.8888888888887
+Honda Jazz 1.5 VX i DTEC,2018,19571,Diesel,Dealer,Manual,First Owner,7,Honda,2795.8571428571427
+Honda Amaze E i-Vtech,2015,80000,Petrol,Individual,Manual,Second Owner,10,Honda,8000.0
+Chevrolet Beat Diesel LT,2012,110000,Diesel,Individual,Manual,First Owner,13,Chevrolet,8461.538461538461
+Hyundai Verna CRDi,2009,90000,Diesel,Individual,Manual,First Owner,16,Hyundai,5625.0
+Maruti Swift Dzire VDI,2018,50000,Diesel,Individual,Manual,First Owner,7,Maruti,7142.857142857143
+Maruti Wagon R VXI Minor,2012,25000,Petrol,Individual,Manual,First Owner,13,Maruti,1923.076923076923
+Hyundai i20 Asta 1.4 CRDi,2013,80000,Diesel,Individual,Manual,Second Owner,12,Hyundai,6666.666666666667
+Honda Jazz 1.2 VX i VTEC,2016,105429,Petrol,Dealer,Manual,First Owner,9,Honda,11714.333333333334
+Toyota Etios VD,2012,140000,Diesel,Individual,Manual,Third Owner,13,Toyota,10769.23076923077
+Mahindra Bolero 2011-2019 SLX,2019,24000,Diesel,Individual,Manual,First Owner,6,Mahindra,4000.0
+Ford Figo Diesel Titanium,2010,102307,Diesel,Dealer,Manual,First Owner,15,Ford,6820.466666666666
+Maruti Wagon R LXI BS IV,2013,55425,Petrol,Dealer,Manual,First Owner,12,Maruti,4618.75
+Maruti A-Star Vxi,2009,46730,Petrol,Individual,Manual,First Owner,16,Maruti,2920.625
+Renault Duster Petrol RxL,2013,100000,Petrol,Individual,Manual,Second Owner,12,Renault,8333.333333333334
+Maruti Wagon R VXI BSIII,2006,60000,Petrol,Individual,Manual,Second Owner,19,Maruti,3157.8947368421054
+Maruti Ciaz VDi Plus,2015,100000,Diesel,Individual,Manual,First Owner,10,Maruti,10000.0
+Mahindra Quanto C6,2013,60000,Diesel,Individual,Manual,First Owner,12,Mahindra,5000.0
+Maruti Eeco 5 STR With AC Plus HTR CNG,2018,45000,CNG,Individual,Manual,First Owner,7,Maruti,6428.571428571428
+Tata Aria Pure LX 4x2,2014,90000,Diesel,Individual,Manual,Second Owner,11,Tata,8181.818181818182
+Mahindra Bolero Power Plus SLX,2017,120000,Diesel,Individual,Manual,First Owner,8,Mahindra,15000.0
+Honda Amaze VX i-DTEC,2013,30000,Diesel,Individual,Manual,First Owner,12,Honda,2500.0
+Maruti Alto LX,2010,88000,Petrol,Individual,Manual,Second Owner,15,Maruti,5866.666666666667
+Mahindra Scorpio 1.99 S10,2014,50000,Diesel,Individual,Manual,First Owner,11,Mahindra,4545.454545454545
+Hyundai i10 Magna 1.1,2008,60000,Petrol,Individual,Manual,Second Owner,17,Hyundai,3529.4117647058824
+Maruti Esteem Lxi - BSIII,2007,54000,Petrol,Individual,Manual,First Owner,18,Maruti,3000.0
+Maruti Celerio ZXI AT,2017,25000,Petrol,Individual,Automatic,First Owner,8,Maruti,3125.0
+Maruti Wagon R VXI BS IV,2014,80000,Petrol,Individual,Manual,Second Owner,11,Maruti,7272.727272727273
+Hyundai Accent GLE,2009,106000,Petrol,Individual,Manual,Third Owner,16,Hyundai,6625.0
+Ford Figo Petrol Titanium,2014,43000,Petrol,Dealer,Manual,First Owner,11,Ford,3909.090909090909
+Nissan Terrano XL,2014,76000,Petrol,Individual,Manual,Second Owner,11,Nissan,6909.090909090909
+Mahindra XUV500 W8 4WD,2014,156000,Diesel,Individual,Manual,First Owner,11,Mahindra,14181.818181818182
+Mahindra XUV500 W10 2WD,2018,20000,Diesel,Individual,Manual,First Owner,7,Mahindra,2857.1428571428573
+Hyundai Elite i20 Sportz Plus CVT BSIV,2019,8000,Petrol,Individual,Automatic,First Owner,6,Hyundai,1333.3333333333333
+Tata Indica Vista TDI LS,2010,107500,Diesel,Dealer,Manual,First Owner,15,Tata,7166.666666666667
+Ford Figo 1.5D Titanium MT,2017,35122,Diesel,Dealer,Manual,First Owner,8,Ford,4390.25
+Ford Figo 1.5D Trend MT,2016,45217,Diesel,Dealer,Manual,First Owner,9,Ford,5024.111111111111
+Mahindra XUV500 W8 2WD,2012,102000,Diesel,Individual,Manual,Second Owner,13,Mahindra,7846.153846153846
+Hyundai i20 Asta,2010,47564,Petrol,Dealer,Manual,Second Owner,15,Hyundai,3170.9333333333334
+Maruti Swift Dzire LXi,2011,100000,Petrol,Individual,Manual,Second Owner,14,Maruti,7142.857142857143
+Chevrolet Sail 1.2 LT ABS,2014,30000,Petrol,Individual,Manual,First Owner,11,Chevrolet,2727.2727272727275
+Honda Civic 1.8 V MT,2008,90000,Petrol,Individual,Manual,First Owner,17,Honda,5294.117647058823
+Hyundai Grand i10 1.2 Kappa Asta,2017,50000,Petrol,Individual,Manual,First Owner,8,Hyundai,6250.0
+Maruti Swift Vdi BSIII,2010,120000,Diesel,Individual,Manual,Second Owner,15,Maruti,8000.0
+Volkswagen Polo 1.5 TDI Highline,2015,30000,Diesel,Individual,Manual,Second Owner,10,Volkswagen,3000.0
+Mahindra Bolero Power Plus SLX,2018,80000,Diesel,Individual,Manual,First Owner,7,Mahindra,11428.57142857143
+Mahindra Xylo D2,2010,70000,Diesel,Individual,Manual,First Owner,15,Mahindra,4666.666666666667
+Ambassador Grand 1800 ISZ MPFI PW CL,2012,50000,Petrol,Individual,Manual,Second Owner,13,Ambassador,3846.153846153846
+Tata Tiago 1.2 Revotron XZ,2019,19600,Petrol,Individual,Manual,First Owner,6,Tata,3266.6666666666665
+Renault KWID RXT Optional,2016,25000,Petrol,Individual,Manual,First Owner,9,Renault,2777.777777777778
+Chevrolet Sail Hatchback 1.3 TCDi,2015,40000,Diesel,Individual,Manual,First Owner,10,Chevrolet,4000.0
+Hyundai Verna 1.6 SX CRDi (O),2013,80000,Diesel,Individual,Manual,Second Owner,12,Hyundai,6666.666666666667
+Honda Brio S MT,2015,34823,Petrol,Dealer,Manual,Second Owner,10,Honda,3482.3
+Skoda Fabia 1.2L Diesel Ambiente,2010,150000,Diesel,Individual,Manual,First Owner,15,Skoda,10000.0
+Maruti Ritz VDi,2011,40000,Diesel,Individual,Manual,Second Owner,14,Maruti,2857.1428571428573
+Tata Indica GLS BS IV,2010,300000,Petrol,Individual,Manual,Third Owner,15,Tata,20000.0
+Hyundai Verna i (Petrol),2008,90000,Petrol,Individual,Manual,Second Owner,17,Hyundai,5294.117647058823
+Maruti Ertiga ZXI,2014,13250,Petrol,Dealer,Manual,First Owner,11,Maruti,1204.5454545454545
+Skoda Laura Ambiente 2.0 TDI CR MT,2012,52000,Diesel,Dealer,Manual,First Owner,13,Skoda,4000.0
+Mahindra Xylo E8,2010,72000,Diesel,Individual,Manual,Second Owner,15,Mahindra,4800.0
+Audi A6 2.0 TDI Premium Plus,2013,58500,Diesel,Dealer,Automatic,First Owner,12,Audi,4875.0
+Maruti Swift VDI BSIV,2015,74820,Diesel,Individual,Manual,First Owner,10,Maruti,7482.0
+Maruti Swift Dzire VDi,2009,190000,Diesel,Individual,Manual,Third Owner,16,Maruti,11875.0
+Ford Ecosport Thunder Edition Diesel,2020,1010,Diesel,Dealer,Manual,Test Drive Car,5,Ford,202.0
+Maruti Ritz VDi,2012,80000,Diesel,Individual,Manual,First Owner,13,Maruti,6153.846153846154
+Ford Figo 1.2P Titanium Plus MT,2012,42000,Petrol,Dealer,Manual,First Owner,13,Ford,3230.769230769231
+Volkswagen Vento Diesel Trendline,2011,100000,Diesel,Individual,Manual,Second Owner,14,Volkswagen,7142.857142857143
+Ford Figo Diesel Titanium,2014,90000,Diesel,Individual,Manual,Second Owner,11,Ford,8181.818181818182
+Maruti Swift Dzire ZDI,2016,69000,Diesel,Individual,Manual,First Owner,9,Maruti,7666.666666666667
+Tata Indigo CR4,2010,80000,Diesel,Individual,Manual,Second Owner,15,Tata,5333.333333333333
+Honda Accord 2.4 AT,2009,40000,Petrol,Individual,Automatic,Third Owner,16,Honda,2500.0
+Maruti SX4 Zxi with Leather BSIII,2007,78380,Petrol,Individual,Manual,First Owner,18,Maruti,4354.444444444444
+Maruti 800 AC BSII,2001,100000,Petrol,Individual,Manual,Second Owner,24,Maruti,4166.666666666667
+Renault Duster 85PS Diesel RxL,2017,32000,Diesel,Individual,Manual,Second Owner,8,Renault,4000.0
+Toyota Etios VX,2011,120000,Petrol,Individual,Manual,Second Owner,14,Toyota,8571.42857142857
+Mahindra Scorpio VLX AT 2WD BSIII,2004,223660,Diesel,Individual,Automatic,Third Owner,21,Mahindra,10650.47619047619
+Mahindra XUV500 W8 4WD,2012,126000,Diesel,Individual,Manual,Second Owner,13,Mahindra,9692.307692307691
+Hyundai Xcent 1.1 CRDi SX,2016,35000,Diesel,Individual,Manual,First Owner,9,Hyundai,3888.8888888888887
+Mahindra TUV 300 T8 AMT,2016,60000,Diesel,Individual,Automatic,Second Owner,9,Mahindra,6666.666666666667
+Honda City 1.5 V MT,2012,47000,Petrol,Dealer,Manual,Second Owner,13,Honda,3615.3846153846152
+Maruti Wagon R VXI BS IV,2014,35000,Petrol,Individual,Manual,Second Owner,11,Maruti,3181.818181818182
+Maruti Wagon R LXI CNG,2016,80000,CNG,Individual,Manual,Second Owner,9,Maruti,8888.888888888889
+Hyundai Verna 1.6 SX,2012,130000,Diesel,Individual,Manual,First Owner,13,Hyundai,10000.0
+Tata Indica Vista Quadrajet LX,2012,110000,Diesel,Individual,Manual,First Owner,13,Tata,8461.538461538461
+Tata Hexa XM,2017,50000,Diesel,Individual,Manual,First Owner,8,Tata,6250.0
+Maruti SX4 ZDI,2011,90000,Diesel,Individual,Manual,Third Owner,14,Maruti,6428.571428571428
+Mahindra Jeep MM 550 XDB,2002,50000,Diesel,Individual,Manual,Third Owner,23,Mahindra,2173.913043478261
+Mahindra Scorpio VLS 2.2 mHawk,2009,110000,Diesel,Individual,Manual,Second Owner,16,Mahindra,6875.0
+Mahindra Bolero Power Plus Plus AC BSIV PS,2019,50000,Diesel,Individual,Manual,First Owner,6,Mahindra,8333.333333333334
+Maruti Wagon R VXI,2004,46000,Petrol,Individual,Manual,First Owner,21,Maruti,2190.4761904761904
+Renault Duster 110PS Diesel RxZ,2012,110000,Diesel,Individual,Manual,Second Owner,13,Renault,8461.538461538461
+Hyundai EON Era Plus,2012,70000,Petrol,Individual,Manual,Third Owner,13,Hyundai,5384.615384615385
+Maruti Baleno Alpha 1.3,2016,100000,Diesel,Individual,Manual,First Owner,9,Maruti,11111.111111111111
+Hyundai Verna SX Diesel,2013,45264,Diesel,Dealer,Manual,First Owner,12,Hyundai,3772.0
+Honda City 1.5 V MT,2009,70000,Petrol,Individual,Manual,Third Owner,16,Honda,4375.0
+OpelCorsa 1.4 GL,2002,100000,Petrol,Individual,Manual,Third Owner,23,OpelCorsa,4347.826086956522
+Tata Nano Std,2011,19000,Petrol,Individual,Manual,First Owner,14,Tata,1357.142857142857
+Toyota Fortuner 2.8 2WD AT BSIV,2017,20000,Diesel,Individual,Automatic,First Owner,8,Toyota,2500.0
+Toyota Innova 2.5 G (Diesel) 7 Seater,2015,80000,Diesel,Individual,Manual,First Owner,10,Toyota,8000.0
+Maruti Zen Estilo VXI BSIV,2011,33000,Petrol,Individual,Manual,First Owner,14,Maruti,2357.1428571428573
+Chevrolet Spark 1.0 LT Option Pack w/ Airbag,2013,53000,Petrol,Dealer,Manual,First Owner,12,Chevrolet,4416.666666666667
+Toyota Innova 2.5 VX (Diesel) 8 Seater BS IV,2012,170000,Diesel,Individual,Manual,First Owner,13,Toyota,13076.923076923076
+Maruti Swift Dzire VDI,2014,90000,Diesel,Individual,Manual,First Owner,11,Maruti,8181.818181818182
+Hyundai Elantra CRDi S,2012,40000,Diesel,Individual,Manual,First Owner,13,Hyundai,3076.923076923077
+Hyundai Santro Xing GLS,2014,54350,Petrol,Dealer,Manual,First Owner,11,Hyundai,4940.909090909091
+Hyundai EON Era Plus,2013,80000,Petrol,Individual,Manual,First Owner,12,Hyundai,6666.666666666667
+Maruti Swift Glam,2009,70000,Petrol,Individual,Manual,First Owner,16,Maruti,4375.0
+Tata Indigo GLX,2006,110000,Petrol,Individual,Manual,Second Owner,19,Tata,5789.473684210527
+Mahindra Xylo E4,2009,230000,Diesel,Individual,Manual,Third Owner,16,Mahindra,14375.0
+Maruti Celerio ZXI,2016,21000,Petrol,Dealer,Manual,First Owner,9,Maruti,2333.3333333333335
+Tata Indica DLS,2005,80000,Diesel,Individual,Manual,First Owner,20,Tata,4000.0
+Maruti Omni MPI STD BSIV,2012,90000,Petrol,Individual,Manual,First Owner,13,Maruti,6923.076923076923
+Chevrolet Beat Diesel LT,2016,35000,Diesel,Individual,Manual,Second Owner,9,Chevrolet,3888.8888888888887
+Honda WR-V i-DTEC VX,2017,140000,Diesel,Individual,Manual,First Owner,8,Honda,17500.0
+Maruti Ertiga VDI,2013,80000,Diesel,Individual,Manual,First Owner,12,Maruti,6666.666666666667
+Maruti 800 Std,2013,70000,Petrol,Individual,Manual,First Owner,12,Maruti,5833.333333333333
+Maruti Baleno Alpha 1.3,2016,50000,Diesel,Individual,Manual,First Owner,9,Maruti,5555.555555555556
+Renault KWID RXT,2016,40000,Petrol,Individual,Manual,First Owner,9,Renault,4444.444444444444
+Hyundai Accent Executive,2013,70000,Petrol,Individual,Manual,First Owner,12,Hyundai,5833.333333333333
+Mahindra Scorpio VLS AT 2.2 mHAWK,2010,195000,Diesel,Individual,Automatic,Second Owner,15,Mahindra,13000.0
+Toyota Etios VD,2016,50000,Diesel,Individual,Manual,Second Owner,9,Toyota,5555.555555555556
+Hyundai Verna 1.6 SX CRDi (O),2013,70000,Diesel,Individual,Manual,Second Owner,12,Hyundai,5833.333333333333
+Isuzu D-Max V-Cross Standard,2018,40000,Diesel,Individual,Manual,First Owner,7,Isuzu,5714.285714285715
+Toyota Etios Liva GD,2012,50000,Diesel,Individual,Manual,Second Owner,13,Toyota,3846.153846153846
+Tata New Safari DICOR 2.2 VX 4x4,2012,42655,Diesel,Individual,Manual,First Owner,13,Tata,3281.153846153846
+Maruti Ritz VDi,2011,52895,Diesel,Dealer,Manual,First Owner,14,Maruti,3778.214285714286
+Maruti Swift VXI,2013,90000,Petrol,Individual,Manual,First Owner,12,Maruti,7500.0
+Maruti Baleno Alpha 1.2,2017,40000,Petrol,Individual,Manual,First Owner,8,Maruti,5000.0
+Maruti 800 Std,2003,54000,Petrol,Individual,Manual,First Owner,22,Maruti,2454.5454545454545
+BMW 5 Series 520d Luxury Line,2018,9422,Diesel,Individual,Automatic,First Owner,7,BMW,1346.0
+Honda Amaze S i-DTEC,2016,90000,Diesel,Individual,Manual,First Owner,9,Honda,10000.0
+Maruti Zen Estilo LX BSIII,2007,74183,Petrol,Individual,Manual,Second Owner,18,Maruti,4121.277777777777
+Hyundai i20 Asta 1.2,2012,80000,Petrol,Individual,Manual,First Owner,13,Hyundai,6153.846153846154
+Mahindra XUV500 W6 2WD,2013,85710,Diesel,Dealer,Manual,First Owner,12,Mahindra,7142.5
+Maruti Alto 800 LXI,2020,1700,Petrol,Individual,Manual,First Owner,5,Maruti,340.0
+Hyundai Verna XXi (Petrol),2007,84000,Petrol,Individual,Manual,Second Owner,18,Hyundai,4666.666666666667
+Maruti Swift Dzire AMT VXI,2018,13800,Petrol,Individual,Automatic,First Owner,7,Maruti,1971.428571428571
+Mahindra Xylo E4,2010,130000,Diesel,Individual,Manual,First Owner,15,Mahindra,8666.666666666666
+Ford Fiesta 1.5 TDCi Ambiente,2014,20000,Diesel,Individual,Manual,First Owner,11,Ford,1818.1818181818185
+Toyota Innova 2.5 V Diesel 8-seater,2008,154000,Diesel,Individual,Manual,Third Owner,17,Toyota,9058.823529411764
+Hyundai EON Magna Plus,2018,30000,Petrol,Individual,Manual,First Owner,7,Hyundai,4285.714285714285
+Maruti Baleno Alpha 1.2,2015,30000,Petrol,Individual,Manual,First Owner,10,Maruti,3000.0
+Maruti Vitara Brezza ZDi,2019,20000,Diesel,Individual,Manual,First Owner,6,Maruti,3333.3333333333335
+Toyota Innova 2.5 G (Diesel) 7 Seater,2013,70000,Diesel,Individual,Manual,Second Owner,12,Toyota,5833.333333333333
+Ford Figo Diesel Celebration Edition,2013,65000,Diesel,Individual,Manual,First Owner,12,Ford,5416.666666666667
+Hyundai Verna CRDi 1.6 EX,2018,25000,Diesel,Individual,Manual,First Owner,7,Hyundai,3571.4285714285716
+Hyundai Xcent 1.1 CRDi Base,2016,50000,Diesel,Individual,Manual,First Owner,9,Hyundai,5555.555555555556
+Mahindra XUV500 W10 2WD,2015,75000,Diesel,Dealer,Manual,Second Owner,10,Mahindra,7500.0
+Tata New Safari DICOR 2.2 EX 4x2,2011,170000,Diesel,Individual,Manual,Second Owner,14,Tata,12142.857142857143
+Volkswagen Jetta 1.9 TDI Comfortline DSG,2009,134000,Diesel,Individual,Automatic,First Owner,16,Volkswagen,8375.0
+Maruti Alto 800 Base,2015,40000,Petrol,Individual,Manual,First Owner,10,Maruti,4000.0
+Maruti Eeco 7 Seater Standard BSIV,2017,51000,Petrol,Dealer,Manual,First Owner,8,Maruti,6375.0
+Maruti Wagon R VXI BS IV,2017,17000,Petrol,Individual,Manual,First Owner,8,Maruti,2125.0
+Toyota Etios V,2011,41125,Petrol,Dealer,Manual,First Owner,14,Toyota,2937.5
+Maruti Swift Dzire VXi,2009,110000,Petrol,Individual,Manual,Fourth & Above Owner,16,Maruti,6875.0
+Fiat Linea Emotion (Diesel),2011,60000,Diesel,Individual,Manual,First Owner,14,Fiat,4285.714285714285
+Maruti Swift LXI Option,2015,28217,Petrol,Trustmark Dealer,Manual,First Owner,10,Maruti,2821.7
+Hyundai i20 Asta (o) 1.4 CRDi (Diesel),2012,70000,Diesel,Dealer,Manual,First Owner,13,Hyundai,5384.615384615385
+Maruti Celerio ZXI,2017,20000,Petrol,Individual,Manual,First Owner,8,Maruti,2500.0
+Ford Fiesta 1.6 Duratec S,2010,70000,Petrol,Individual,Manual,Second Owner,15,Ford,4666.666666666667
+Ford Fiesta Titanium 1.5 TDCi,2011,80000,Diesel,Individual,Manual,First Owner,14,Ford,5714.285714285715
+Maruti Swift Dzire ZDI,2019,120000,Diesel,Individual,Manual,Second Owner,6,Maruti,20000.0
+Hyundai Santro GLS I - Euro II,2007,85000,Petrol,Dealer,Manual,First Owner,18,Hyundai,4722.222222222223
+Mahindra Xylo D4,2017,85441,Diesel,Dealer,Manual,First Owner,8,Mahindra,10680.125
+Honda Jazz 1.5 VX i DTEC,2017,36000,Diesel,Dealer,Manual,First Owner,8,Honda,4500.0
+Hyundai EON Magna Plus,2014,73300,Petrol,Dealer,Manual,Second Owner,11,Hyundai,6663.636363636364
+Hyundai Grand i10 Asta,2014,80000,Petrol,Individual,Manual,Second Owner,11,Hyundai,7272.727272727273
+Nissan Sunny Diesel XV,2013,105000,Diesel,Individual,Manual,First Owner,12,Nissan,8750.0
+Chevrolet Optra Magnum 2.0 LT,2011,150000,Diesel,Individual,Manual,Second Owner,14,Chevrolet,10714.285714285714
+Hyundai Santro Xing GLS,2009,27005,Petrol,Dealer,Manual,First Owner,16,Hyundai,1687.8125
+Toyota Fortuner 3.0 Diesel,2010,180000,Diesel,Individual,Manual,First Owner,15,Toyota,12000.0
+Ford Aspire Titanium Plus BSIV,2018,14000,Petrol,Dealer,Manual,First Owner,7,Ford,2000.0
+Renault KWID 1.0,2016,40000,Petrol,Individual,Manual,First Owner,9,Renault,4444.444444444444
+BMW 3 Series 320d Luxury Line,2015,24000,Diesel,Individual,Automatic,First Owner,10,BMW,2400.0
+Hyundai Accent GLX,2008,60000,Petrol,Individual,Manual,First Owner,17,Hyundai,3529.4117647058824
+Maruti Celerio LXI MT BSIV,2019,50000,Petrol,Individual,Manual,First Owner,6,Maruti,8333.333333333334
+Maruti Wagon R DUO LPG,2014,90000,LPG,Individual,Manual,First Owner,11,Maruti,8181.818181818182
+Maruti Wagon R VXI,2000,80000,Petrol,Individual,Manual,First Owner,25,Maruti,3200.0
+Maruti Swift Dzire ZXI,2016,35000,Petrol,Individual,Manual,First Owner,9,Maruti,3888.8888888888887
+Fiat Linea Classic 1.3 Multijet,2015,130000,Diesel,Individual,Manual,First Owner,10,Fiat,13000.0
+Mercedes-Benz S-Class S 350d Connoisseurs Edition,2017,6500,Diesel,Dealer,Automatic,First Owner,8,Mercedes-Benz,812.5
+Chevrolet Beat PS,2015,50000,Petrol,Individual,Manual,First Owner,10,Chevrolet,5000.0
+Chevrolet Aveo U-VA 1.2,2007,110000,Petrol,Individual,Manual,Second Owner,18,Chevrolet,6111.111111111111
+Mercedes-Benz New C-Class 220 CDI AT,2013,59000,Diesel,Dealer,Automatic,First Owner,12,Mercedes-Benz,4916.666666666667
+Fiat Linea T Jet Plus,2011,20000,Petrol,Individual,Manual,First Owner,14,Fiat,1428.571428571429
+Mahindra XUV500 W8 2WD,2013,222252,Diesel,Individual,Manual,First Owner,12,Mahindra,18521.0
+Renault Fluence 1.5,2012,90000,Diesel,Individual,Manual,First Owner,13,Renault,6923.076923076923
+Mahindra XUV500 W8 4WD,2012,71042,Diesel,Dealer,Manual,First Owner,13,Mahindra,5464.7692307692305
+Ford Ecosport 1.5 DV5 MT Titanium,2014,30000,Diesel,Individual,Manual,First Owner,11,Ford,2727.2727272727275
+Datsun GO A,2015,40000,Petrol,Individual,Manual,Second Owner,10,Datsun,4000.0
+Maruti Wagon R VXI BS IV,2018,15000,Petrol,Individual,Manual,First Owner,7,Maruti,2142.8571428571427
+Tata Zest Revotron 1.2T XMS,2018,54000,Petrol,Dealer,Manual,Second Owner,7,Tata,7714.285714285715
+Maruti Baleno Alpha 1.2,2019,24000,Petrol,Individual,Manual,First Owner,6,Maruti,4000.0
+Hyundai Getz 1.3 GLS,2010,105546,Petrol,Individual,Manual,First Owner,15,Hyundai,7036.4
+Renault KWID RXL,2019,10000,Petrol,Individual,Manual,First Owner,6,Renault,1666.6666666666667
+Hyundai i20 Magna,2010,40000,Petrol,Individual,Manual,First Owner,15,Hyundai,2666.6666666666665
+Toyota Innova Crysta 2.8 GX AT BSIV,2016,120000,Diesel,Individual,Automatic,First Owner,9,Toyota,13333.333333333334
+Maruti Zen LXI,2005,90000,Petrol,Individual,Manual,Second Owner,20,Maruti,4500.0
+Maruti Alto K10 VXI Airbag,2017,60000,Petrol,Individual,Manual,First Owner,8,Maruti,7500.0
+Hyundai i20 1.2 Spotz,2017,50000,Petrol,Individual,Manual,First Owner,8,Hyundai,6250.0
+Maruti Swift Dzire VDI,2016,40000,Diesel,Individual,Manual,Second Owner,9,Maruti,4444.444444444444
+Maruti Vitara Brezza VDi Option,2018,26350,Diesel,Individual,Manual,First Owner,7,Maruti,3764.285714285714
+Ford EcoSport 1.5 TDCi Titanium BSIV,2018,27620,Diesel,Dealer,Manual,First Owner,7,Ford,3945.714285714286
+Chevrolet Beat LS,2011,80000,Petrol,Individual,Manual,Second Owner,14,Chevrolet,5714.285714285715
+Maruti Swift VDI BSIV,2014,155000,Diesel,Individual,Manual,First Owner,11,Maruti,14090.90909090909
+Mahindra Verito 1.5 D2 BSIII,2011,280000,Diesel,Individual,Manual,First Owner,14,Mahindra,20000.0
+Ford Endeavour 3.2 Titanium AT 4X4,2018,56000,Diesel,Dealer,Automatic,First Owner,7,Ford,8000.0
+Mahindra Xylo Celebration Edition BSIV,2010,240000,Diesel,Individual,Manual,Third Owner,15,Mahindra,16000.0
+Maruti Zen Estilo LXI BSIII,2008,90000,Petrol,Individual,Manual,Third Owner,17,Maruti,5294.117647058823
+Hyundai Verna 1.6 CRDI,2011,127500,Diesel,Individual,Manual,Second Owner,14,Hyundai,9107.142857142857
+Hyundai i20 1.4 CRDi Magna,2012,160000,Diesel,Individual,Manual,Second Owner,13,Hyundai,12307.692307692309
+Skoda Superb Elegance 2.0 TDI CR AT,2011,73000,Diesel,Dealer,Automatic,First Owner,14,Skoda,5214.285714285715
+Maruti Ciaz ZDi Plus,2017,64000,Diesel,Dealer,Manual,First Owner,8,Maruti,8000.0
+Maruti Swift Vdi BSIII,2010,100000,Diesel,Individual,Manual,Third Owner,15,Maruti,6666.666666666667
+Honda Brio S MT,2012,39039,Petrol,Dealer,Manual,First Owner,13,Honda,3003.0
+Tata Indica Vista Terra Quadrajet 1.3L,2011,90000,Diesel,Individual,Manual,Third Owner,14,Tata,6428.571428571428
+Hyundai i10 Era 1.1,2009,27633,Petrol,Individual,Manual,First Owner,16,Hyundai,1727.0625
+Maruti Wagon R LXI Minor,2009,53000,Petrol,Individual,Manual,First Owner,16,Maruti,3312.5
+Hyundai Grand i10 Sportz,2015,61690,Petrol,Dealer,Manual,First Owner,10,Hyundai,6169.0
+BMW 3 Series 320d Sport Line,2013,75800,Diesel,Dealer,Automatic,Second Owner,12,BMW,6316.666666666667
+Maruti Wagon R LXI,2004,90000,Petrol,Individual,Manual,Fourth & Above Owner,21,Maruti,4285.714285714285
+Maruti S-Cross Facelift,2017,40000,Diesel,Individual,Manual,First Owner,8,Maruti,5000.0
+Maruti Swift Dzire VDi,2009,150000,Diesel,Individual,Manual,Third Owner,16,Maruti,9375.0
+Maruti Baleno Delta 1.2,2018,2000,Petrol,Individual,Manual,First Owner,7,Maruti,285.7142857142857
+Hyundai EON Magna Plus,2013,205000,Petrol,Individual,Manual,First Owner,12,Hyundai,17083.333333333332
+Ford Figo Petrol Titanium,2011,60000,Petrol,Individual,Manual,Third Owner,14,Ford,4285.714285714285
+Ford Figo Petrol ZXI,2011,50000,Petrol,Individual,Manual,Third Owner,14,Ford,3571.4285714285716
+Tata Nano CX,2014,40000,Petrol,Individual,Manual,First Owner,11,Tata,3636.363636363637
+Ford EcoSport 1.5 Diesel Titanium BSIV,2018,15000,Diesel,Individual,Manual,First Owner,7,Ford,2142.8571428571427
+Toyota Innova 2.5 G (Diesel) 7 Seater,2013,73000,Diesel,Dealer,Manual,First Owner,12,Toyota,6083.333333333333
+Hyundai Verna 1.6 VTVT,2012,40000,Petrol,Individual,Manual,First Owner,13,Hyundai,3076.923076923077
+Ford Ecosport 1.5 Petrol Trend,2020,1010,Petrol,Dealer,Manual,Test Drive Car,5,Ford,202.0
+Mahindra Bolero DI DX 8 Seater,2004,168000,Diesel,Individual,Manual,Fourth & Above Owner,21,Mahindra,8000.0
+Maruti Swift Ldi BSIV,2011,133000,Diesel,Individual,Manual,Second Owner,14,Maruti,9500.0
+Hyundai Verna i (Petrol),2007,50000,Petrol,Individual,Manual,Second Owner,18,Hyundai,2777.777777777778
+Maruti Wagon R LXI,2008,35008,Petrol,Dealer,Manual,First Owner,17,Maruti,2059.294117647059
+Hyundai i20 1.2 Spotz,2017,20000,Petrol,Individual,Manual,Second Owner,8,Hyundai,2500.0
+Maruti Alto LX,2009,60000,Petrol,Individual,Manual,Second Owner,16,Maruti,3750.0
+Maruti Ertiga VDI,2014,110000,Diesel,Individual,Manual,Second Owner,11,Maruti,10000.0
+Volkswagen Polo Diesel Comfortline 1.2L,2010,110000,Diesel,Individual,Manual,Second Owner,15,Volkswagen,7333.333333333333
+Maruti Wagon R LXI Minor,2008,30000,Petrol,Individual,Manual,First Owner,17,Maruti,1764.7058823529412
+Maruti Alto 800 LXI,2014,30000,Petrol,Individual,Manual,First Owner,11,Maruti,2727.2727272727275
+Ford Ecosport 1.5 DV5 MT Titanium Optional,2014,99117,Diesel,Dealer,Manual,First Owner,11,Ford,9010.636363636364
+Chevrolet Sail LS ABS,2014,40000,Diesel,Individual,Manual,First Owner,11,Chevrolet,3636.363636363637
+Hyundai Santro Xing XK,2007,55000,Petrol,Individual,Manual,Second Owner,18,Hyundai,3055.5555555555557
+Hyundai Santro Xing XL eRLX Euro III,2006,60000,Petrol,Dealer,Manual,Second Owner,19,Hyundai,3157.8947368421054
+Renault KWID RXT,2017,20000,Petrol,Individual,Manual,First Owner,8,Renault,2500.0
+Chevrolet Enjoy 1.3 TCDi LS 8,2013,20000,Diesel,Dealer,Manual,First Owner,12,Chevrolet,1666.6666666666667
+Maruti Wagon R AMT VXI,2018,24000,Petrol,Individual,Automatic,First Owner,7,Maruti,3428.5714285714284
+Maruti Alto LX,2006,140300,Petrol,Individual,Manual,First Owner,19,Maruti,7384.210526315789
+Maruti Swift Dzire VXi,2010,97000,Petrol,Individual,Manual,Second Owner,15,Maruti,6466.666666666667
+Mahindra XUV500 W10 1.99 mHawk,2016,23670,Diesel,Trustmark Dealer,Manual,First Owner,9,Mahindra,2630.0
+Toyota Etios Liva G,2013,50000,Petrol,Individual,Manual,Second Owner,12,Toyota,4166.666666666667
+Hyundai i20 Magna 1.2,2016,25000,Petrol,Individual,Manual,First Owner,9,Hyundai,2777.777777777778
+Mahindra Quanto C6,2012,89000,Diesel,Individual,Manual,Second Owner,13,Mahindra,6846.153846153846
+Mahindra Verito 1.5 D6 BSIII,2012,112198,Diesel,Individual,Manual,Second Owner,13,Mahindra,8630.615384615385
+Maruti Ignis 1.2 Delta BSIV,2019,15000,Petrol,Individual,Manual,First Owner,6,Maruti,2500.0
+Maruti Swift Dzire ZXI Plus,2017,15000,Petrol,Individual,Manual,First Owner,8,Maruti,1875.0
+Mahindra Scorpio 1.99 S6 Plus,2016,35000,Diesel,Individual,Manual,First Owner,9,Mahindra,3888.8888888888887
+Hyundai Grand i10 Magna,2017,53261,Petrol,Dealer,Manual,First Owner,8,Hyundai,6657.625
+Maruti Eeco 5 Seater AC BSIV,2017,30000,Petrol,Dealer,Manual,First Owner,8,Maruti,3750.0
+Hyundai Creta 1.6 SX Option,2018,15000,Petrol,Individual,Manual,First Owner,7,Hyundai,2142.8571428571427
+Tata New Safari DICOR 2.2 EX 4x2,2010,120000,Diesel,Individual,Manual,Second Owner,15,Tata,8000.0
+Maruti Baleno Zeta 1.2,2017,49834,Petrol,Trustmark Dealer,Manual,First Owner,8,Maruti,6229.25
+Fiat Linea T Jet Emotion,2018,1136,Petrol,Dealer,Manual,First Owner,7,Fiat,162.28571428571428
+Mahindra Xylo D4,2017,80000,Diesel,Individual,Manual,First Owner,8,Mahindra,10000.0
+Tata Indigo CR4,2011,70000,Diesel,Individual,Manual,Second Owner,14,Tata,5000.0
+Maruti Alto LX,2000,90000,Petrol,Individual,Manual,Second Owner,25,Maruti,3600.0
+Hyundai Xcent 1.2 VTVT S,2018,8000,Petrol,Individual,Manual,First Owner,7,Hyundai,1142.857142857143
+Mahindra Bolero Power Plus ZLX,2018,35000,Diesel,Individual,Manual,First Owner,7,Mahindra,5000.0
+Renault KWID RXT,2016,53000,Petrol,Individual,Manual,Second Owner,9,Renault,5888.888888888889
+Maruti Swift Dzire VDI,2014,260000,Diesel,Individual,Manual,Second Owner,11,Maruti,23636.363636363636
+Mercedes-Benz E-Class E250 Edition E,2013,81000,Diesel,Dealer,Automatic,First Owner,12,Mercedes-Benz,6750.0
+Hyundai Santro Asta,2018,16000,Petrol,Dealer,Manual,First Owner,7,Hyundai,2285.714285714286
+Mahindra KUV 100 mFALCON G80 K8 5str,2016,60000,Petrol,Individual,Manual,First Owner,9,Mahindra,6666.666666666667
+Mahindra XUV300 W8 Option Diesel BSIV,2019,10000,Diesel,Individual,Manual,First Owner,6,Mahindra,1666.6666666666667
+Ford EcoSport 1.5 TDCi Titanium BSIV,2013,93283,Diesel,Dealer,Manual,First Owner,12,Ford,7773.583333333333
+Ford Figo Diesel ZXI,2011,149000,Diesel,Individual,Manual,Second Owner,14,Ford,10642.857142857143
+Hyundai EON Era Plus,2018,20000,Petrol,Individual,Manual,First Owner,7,Hyundai,2857.1428571428573
+Maruti Swift Dzire VDI,2016,60000,Diesel,Individual,Manual,First Owner,9,Maruti,6666.666666666667
+Maruti Ritz LXI,2009,15000,Petrol,Individual,Manual,First Owner,16,Maruti,937.5
+Mahindra Bolero 2011-2019 SLE,2013,62200,Diesel,Dealer,Manual,First Owner,12,Mahindra,5183.333333333333
+Renault Duster 85PS Diesel RxL Optional,2013,70000,Diesel,Individual,Manual,Third Owner,12,Renault,5833.333333333333
+Mercedes-Benz E-Class 230,1998,35000,Petrol,Individual,Automatic,Second Owner,27,Mercedes-Benz,1296.2962962962963
+Maruti Alto LX,2007,180000,Petrol,Individual,Manual,Third Owner,18,Maruti,10000.0
+Hyundai Grand i10 Sportz,2017,10000,Petrol,Individual,Manual,First Owner,8,Hyundai,1250.0
+Hyundai Verna 1.6 CRDI SX Option,2018,30000,Diesel,Dealer,Manual,Second Owner,7,Hyundai,4285.714285714285
+Honda Mobilio S i DTEC,2016,36000,Diesel,Individual,Manual,Second Owner,9,Honda,4000.0
+Hyundai Creta 1.4 CRDi S Plus,2016,90000,Diesel,Individual,Manual,Second Owner,9,Hyundai,10000.0
+Hyundai Verna 1.6 SX CRDi (O),2012,60000,Diesel,Individual,Manual,Second Owner,13,Hyundai,4615.384615384615
+Maruti Alto LXi,2007,70000,Petrol,Individual,Manual,Second Owner,18,Maruti,3888.8888888888887
+Maruti Alto LX,2007,120000,Petrol,Individual,Manual,Third Owner,18,Maruti,6666.666666666667
+Volkswagen Jetta 2.0L TDI Comfortline,2014,52000,Diesel,Dealer,Manual,Second Owner,11,Volkswagen,4727.272727272727
+Honda City Edge Edition Diesel SV,2018,40000,Diesel,Individual,Manual,First Owner,7,Honda,5714.285714285715
+Ford Figo Petrol LXI,2010,110000,Petrol,Individual,Manual,First Owner,15,Ford,7333.333333333333
+Honda BR-V i-DTEC VX MT,2016,43377,Diesel,Dealer,Manual,First Owner,9,Honda,4819.666666666667
+Hyundai Venue SX Opt Turbo BSIV,2020,1100,Petrol,Individual,Manual,First Owner,5,Hyundai,220.0
+Fiat Grande Punto Emotion 90Hp,2013,80000,Diesel,Individual,Manual,First Owner,12,Fiat,6666.666666666667
+Maruti Omni BSIII 8-STR W/ IMMOBILISER,2008,50000,Petrol,Individual,Manual,Second Owner,17,Maruti,2941.176470588235
+Chevrolet Aveo U-VA 1.2 LT WO ABS Airbag,2009,38500,Petrol,Individual,Manual,Second Owner,16,Chevrolet,2406.25
+Hyundai Getz GL,2006,80000,Petrol,Individual,Manual,Third Owner,19,Hyundai,4210.526315789473
+Maruti S-Presso VXI Plus,2019,1950,Petrol,Individual,Manual,First Owner,6,Maruti,325.0
+Renault KWID 1.0,2017,55000,Petrol,Individual,Manual,First Owner,8,Renault,6875.0
+Hyundai Santro Xing GLS,2009,100000,Petrol,Individual,Manual,Third Owner,16,Hyundai,6250.0
+Maruti Alto LX,2004,70000,Petrol,Individual,Manual,First Owner,21,Maruti,3333.3333333333335
+Maruti Swift Dzire VDI,2015,50000,Diesel,Individual,Manual,First Owner,10,Maruti,5000.0
+Maruti Ertiga 1.5 VDI,2020,90000,Diesel,Individual,Manual,First Owner,5,Maruti,18000.0
+Ford Fiesta Classic 1.4 SXI Duratorq,2006,120000,Diesel,Individual,Manual,Third Owner,19,Ford,6315.789473684211
+Hyundai Grand i10 Asta,2016,45457,Petrol,Dealer,Manual,First Owner,9,Hyundai,5050.777777777777
+Maruti Alto 800 LXI,2014,90000,Petrol,Individual,Manual,Second Owner,11,Maruti,8181.818181818182
+Honda WR-V i-DTEC V,2019,60000,Diesel,Individual,Manual,First Owner,6,Honda,10000.0
+Maruti SX4 VDI,2011,90000,Diesel,Individual,Manual,Third Owner,14,Maruti,6428.571428571428
+Chevrolet Tavera Neo 2 LT L 9 Str,2012,110000,Diesel,Individual,Manual,First Owner,13,Chevrolet,8461.538461538461
+Maruti Zen D,2003,100000,Diesel,Individual,Manual,Second Owner,22,Maruti,4545.454545454545
+Renault KWID RXT,2017,50000,Petrol,Individual,Manual,First Owner,8,Renault,6250.0
+Mahindra Scorpio S11 BSIV,2017,20000,Diesel,Individual,Manual,First Owner,8,Mahindra,2500.0
+Tata Indigo Grand Dicor,2013,80000,Diesel,Individual,Manual,First Owner,12,Tata,6666.666666666667
+Hyundai Verna CRDi 1.6 AT SX Option,2018,30000,Diesel,Individual,Automatic,First Owner,7,Hyundai,4285.714285714285
+Hyundai i20 Asta 1.4 CRDi,2013,70000,Diesel,Individual,Manual,Second Owner,12,Hyundai,5833.333333333333
+Maruti Alto 800 LXI,2018,5000,Petrol,Individual,Manual,First Owner,7,Maruti,714.2857142857143
+Maruti A-Star Vxi,2010,70000,Petrol,Individual,Manual,Second Owner,15,Maruti,4666.666666666667
+Renault KWID RXT,2017,25000,Petrol,Individual,Manual,First Owner,8,Renault,3125.0
+Maruti Omni E MPI STD BS IV,2018,20000,Petrol,Dealer,Manual,First Owner,7,Maruti,2857.1428571428573
+Mahindra Scorpio VLX 2WD BSIV,2010,100000,Diesel,Individual,Manual,Third Owner,15,Mahindra,6666.666666666667
+Hyundai Elite i20 Asta Option BSIV,2019,11240,Petrol,Individual,Manual,First Owner,6,Hyundai,1873.3333333333333
+Honda City 1.5 V AT,2011,70000,Petrol,Individual,Automatic,Second Owner,14,Honda,5000.0
+Ford Ecosport 1.0 Ecoboost Titanium Optional,2014,65239,Petrol,Dealer,Manual,First Owner,11,Ford,5930.818181818182
+Tata Nexon 1.2 Revotron XZ Plus,2019,8000,Petrol,Individual,Manual,First Owner,6,Tata,1333.3333333333333
+Maruti Alto LXi,2009,20000,Petrol,Individual,Manual,First Owner,16,Maruti,1250.0
+Maruti Alto LX,2006,60000,Petrol,Individual,Manual,Second Owner,19,Maruti,3157.8947368421054
+Mahindra Quanto C6,2013,120000,Diesel,Individual,Manual,Second Owner,12,Mahindra,10000.0
+Ford Endeavour 3.0L 4X4 AT,2013,98000,Diesel,Dealer,Automatic,First Owner,12,Ford,8166.666666666667
+Tata Tigor 1.2 Revotron XT,2018,8500,Petrol,Individual,Manual,First Owner,7,Tata,1214.2857142857142
+Maruti Omni Maruti Omni MPI STD BSIII 5-STR W/ IMMOBILISER,2018,28000,Petrol,Dealer,Manual,First Owner,7,Maruti,4000.0
+Maruti Swift ZDi BSIV,2016,46000,Diesel,Dealer,Manual,First Owner,9,Maruti,5111.111111111111
+Volkswagen Vento New Diesel Highline,2013,120000,Diesel,Individual,Manual,Second Owner,12,Volkswagen,10000.0
+Volkswagen Polo Petrol Comfortline 1.2L,2013,100000,Petrol,Individual,Manual,First Owner,12,Volkswagen,8333.333333333334
+Maruti Zen LX,2001,97000,Petrol,Individual,Manual,Fourth & Above Owner,24,Maruti,4041.6666666666665
+Maruti Ertiga SHVS VDI,2016,80000,Diesel,Individual,Manual,First Owner,9,Maruti,8888.888888888889
+Nissan Micra XL,2016,33000,Petrol,Individual,Manual,Second Owner,9,Nissan,3666.6666666666665
+Mahindra Bolero Power Plus ZLX,2017,29000,Diesel,Individual,Manual,First Owner,8,Mahindra,3625.0
+Hyundai Santro Xing XO,2006,110000,Petrol,Individual,Manual,First Owner,19,Hyundai,5789.473684210527
+Maruti Swift Ldi BSIV,2009,100000,Diesel,Individual,Manual,Second Owner,16,Maruti,6250.0
+Mahindra Scorpio 1.99 S6 Plus,2017,60000,Diesel,Individual,Manual,First Owner,8,Mahindra,7500.0
+Mahindra Xylo H8 ABS with Airbags,2018,70000,Diesel,Individual,Manual,First Owner,7,Mahindra,10000.0
+Honda Civic 1.8 MT Sport,2007,55000,Petrol,Individual,Manual,Second Owner,18,Honda,3055.5555555555557
+Maruti 800 AC,2000,40000,Petrol,Individual,Manual,Third Owner,25,Maruti,1600.0
+Mahindra Thar DI 4X4 PS,2016,50000,Diesel,Individual,Manual,First Owner,9,Mahindra,5555.555555555556
+Hyundai i20 Magna 1.4 CRDi (Diesel),2013,22700,Diesel,Dealer,Manual,Second Owner,12,Hyundai,1891.6666666666667
+Maruti Wagon R Stingray VXI,2014,75000,Petrol,Individual,Manual,First Owner,11,Maruti,6818.181818181818
+Nissan Terrano XV Premium 110 PS,2014,110000,Diesel,Individual,Manual,Second Owner,11,Nissan,10000.0
+Maruti Swift Dzire VDI,2015,80000,Diesel,Individual,Manual,First Owner,10,Maruti,8000.0
+Honda City 1.3 EXI,2002,100000,Petrol,Individual,Manual,First Owner,23,Honda,4347.826086956522
+Ford Ecosport 1.5 DV5 MT Titanium,2013,72000,Diesel,Individual,Manual,First Owner,12,Ford,6000.0
+Mitsubishi Outlander 2.4,2012,140000,Petrol,Individual,Automatic,First Owner,13,Mitsubishi,10769.23076923077
+Fiat Linea Dynamic,2013,70000,Petrol,Individual,Manual,First Owner,12,Fiat,5833.333333333333
+Mahindra Bolero DI,2004,120000,Diesel,Individual,Manual,Fourth & Above Owner,21,Mahindra,5714.285714285715
+Hyundai Santro Xing XG,2004,58000,Petrol,Individual,Manual,First Owner,21,Hyundai,2761.904761904762
+Renault KWID RXE,2016,20000,Petrol,Individual,Manual,First Owner,9,Renault,2222.222222222222
+Maruti 800 AC,2009,50000,Petrol,Individual,Manual,Fourth & Above Owner,16,Maruti,3125.0
+Toyota Corolla Altis 1.8 J,2008,35000,Petrol,Individual,Manual,Second Owner,17,Toyota,2058.823529411765
+Honda Brio 1.2 S Option MT,2019,9000,Petrol,Individual,Manual,First Owner,6,Honda,1500.0
+Tata Indica Vista Aqua 1.3 Quadrajet,2011,80000,Diesel,Individual,Manual,Second Owner,14,Tata,5714.285714285715
+Renault KWID RXL,2019,15000,Petrol,Individual,Manual,First Owner,6,Renault,2500.0
+Skoda Fabia 1.2 TDI Active,2011,60000,Diesel,Individual,Manual,Second Owner,14,Skoda,4285.714285714285
+Chevrolet Optra Magnum 2.0 LS,2009,66000,Diesel,Individual,Manual,First Owner,16,Chevrolet,4125.0
+Hyundai Verna SX CRDi AT,2012,70070,Diesel,Dealer,Automatic,First Owner,13,Hyundai,5390.0
+Hyundai Grand i10 Asta Option,2017,27000,Petrol,Dealer,Manual,First Owner,8,Hyundai,3375.0
+Ford Figo Aspire 1.5 TDCi Trend,2015,148620,Diesel,Dealer,Manual,First Owner,10,Ford,14862.0
+Chevrolet Beat Diesel LT,2012,60000,Diesel,Individual,Manual,First Owner,13,Chevrolet,4615.384615384615
+Maruti Ritz LDi,2013,140000,Diesel,Individual,Manual,Second Owner,12,Maruti,11666.666666666666
+Maruti Alto K10 LXI,2012,20000,Petrol,Individual,Manual,Second Owner,13,Maruti,1538.4615384615386
+Maruti Alto LXi,2009,50000,Petrol,Individual,Manual,Second Owner,16,Maruti,3125.0
+Maruti A-Star Lxi,2009,25000,Petrol,Individual,Manual,First Owner,16,Maruti,1562.5
+Mahindra Scorpio 2.6 SLX Turbo 7 Seater,2004,120000,Diesel,Individual,Manual,First Owner,21,Mahindra,5714.285714285715
+Hyundai Santro LE zipPlus,2003,80000,Petrol,Individual,Manual,Third Owner,22,Hyundai,3636.363636363637
+Maruti Alto 800 LXI,2015,32933,Petrol,Dealer,Manual,First Owner,10,Maruti,3293.3
+Renault KWID 1.0 RXT Optional,2018,35000,Petrol,Individual,Manual,First Owner,7,Renault,5000.0
+Hyundai Grand i10 CRDi Magna,2017,66000,Diesel,Dealer,Manual,First Owner,8,Hyundai,8250.0
+Tata Sumo Gold EX BSIII,2016,60000,Diesel,Individual,Manual,First Owner,9,Tata,6666.666666666667
+Renault KWID RXT,2015,14365,Petrol,Dealer,Manual,First Owner,10,Renault,1436.5
+Maruti Ertiga ZDI Plus,2019,30000,Diesel,Individual,Manual,First Owner,6,Maruti,5000.0
+Maruti SX4 S Cross DDiS 320 Zeta,2017,90000,Diesel,Individual,Manual,First Owner,8,Maruti,11250.0
+Chevrolet Beat Diesel LS,2013,47253,Diesel,Dealer,Manual,First Owner,12,Chevrolet,3937.75
+Maruti Zen D PS,2003,120000,Diesel,Individual,Manual,Third Owner,22,Maruti,5454.545454545455
+Maruti Wagon R VXI BS IV,2011,40000,Petrol,Individual,Manual,Second Owner,14,Maruti,2857.1428571428573
+Hyundai Santro Xing XS eRLX Euro III,2006,52000,Petrol,Individual,Manual,Second Owner,19,Hyundai,2736.842105263158
+Maruti Swift Dzire ZDI,2015,80000,Diesel,Individual,Manual,First Owner,10,Maruti,8000.0
+Nissan X-Trail SLX MT,2010,110000,Diesel,Individual,Manual,Second Owner,15,Nissan,7333.333333333333
+Tata Tigor 1.2 Revotron XZ Option,2018,5000,Petrol,Individual,Manual,First Owner,7,Tata,714.2857142857143
+Maruti Swift VVT ZXI,2017,60000,Petrol,Individual,Manual,First Owner,8,Maruti,7500.0
+Maruti Swift VXI,2019,20000,Petrol,Individual,Manual,First Owner,6,Maruti,3333.3333333333335
+Maruti Esteem Lxi,2005,60000,Petrol,Individual,Manual,Second Owner,20,Maruti,3000.0
+Mahindra TUV 300 T4,2016,50000,Diesel,Individual,Manual,First Owner,9,Mahindra,5555.555555555556
+Tata Indigo CR4,2011,90000,Diesel,Individual,Manual,First Owner,14,Tata,6428.571428571428
+Maruti Alto LXi,2010,90000,Petrol,Individual,Manual,Second Owner,15,Maruti,6000.0
+Maruti Wagon R VXI BSII,2006,80000,Petrol,Individual,Manual,Second Owner,19,Maruti,4210.526315789473
+Mahindra Scorpio SLE BSIV,2014,70000,Diesel,Individual,Manual,Second Owner,11,Mahindra,6363.636363636364
+Honda Amaze S Petrol BSIV,2020,1000,Petrol,Individual,Manual,First Owner,5,Honda,200.0
+Maruti Swift ZDi,2013,120000,Diesel,Individual,Manual,First Owner,12,Maruti,10000.0
+Hyundai i10 Magna,2011,28000,Petrol,Dealer,Manual,First Owner,14,Hyundai,2000.0
+Nissan Sunny XL,2012,80000,Petrol,Individual,Manual,Second Owner,13,Nissan,6153.846153846154
+Maruti Alto LX,2006,124439,Petrol,Individual,Manual,Second Owner,19,Maruti,6549.421052631579
+Hyundai Elite i20 Sportz Plus BSIV,2019,10000,Petrol,Individual,Manual,First Owner,6,Hyundai,1666.6666666666667
+Maruti 800 AC,2012,120000,Petrol,Individual,Manual,First Owner,13,Maruti,9230.76923076923
+Skoda Rapid Monte Carlo 1.6 MPI AT BSIV,2017,44500,Petrol,Individual,Automatic,First Owner,8,Skoda,5562.5
+Tata Hexa XT,2019,40000,Diesel,Individual,Manual,First Owner,6,Tata,6666.666666666667
+Renault KWID 1.0 RXT Optional,2018,15000,Petrol,Individual,Manual,First Owner,7,Renault,2142.8571428571427
+Ford EcoSport 1.5 Ti VCT MT Titanium BE BSIV,2018,19000,Petrol,Dealer,Manual,First Owner,7,Ford,2714.285714285714
+Mercedes-Benz New C-Class 220 CDI AT,2013,35000,Diesel,Individual,Automatic,First Owner,12,Mercedes-Benz,2916.6666666666665
+Maruti Eeco Smiles 5 Seater AC,2016,72500,Petrol,Dealer,Manual,First Owner,9,Maruti,8055.555555555556
+Toyota Corolla Altis 1.8 VL AT,2010,80000,Petrol,Individual,Automatic,Third Owner,15,Toyota,5333.333333333333
+Ford Ikon 1.3 Flair,2005,4637,Petrol,Individual,Manual,Second Owner,20,Ford,231.85
+Maruti Swift AMT VXI,2019,25000,Petrol,Individual,Automatic,First Owner,6,Maruti,4166.666666666667
+Maruti Ritz VDi,2013,60000,Diesel,Individual,Manual,Second Owner,12,Maruti,5000.0
+Maruti A-Star Vxi,2009,70000,Petrol,Individual,Manual,Third Owner,16,Maruti,4375.0
+Mahindra Scorpio S2 9 Seater,2015,70000,Diesel,Individual,Manual,First Owner,10,Mahindra,7000.0
+Hyundai Grand i10 1.2 Kappa Asta,2017,3917,Petrol,Individual,Manual,First Owner,8,Hyundai,489.625
+Hyundai Xcent 1.2 CRDi SX,2015,55000,Diesel,Dealer,Manual,First Owner,10,Hyundai,5500.0
+Maruti Swift Dzire LDi,2010,110000,Diesel,Individual,Manual,Third Owner,15,Maruti,7333.333333333333
+Tata Tiago 1.2 Revotron XTA,2018,15000,Petrol,Individual,Automatic,First Owner,7,Tata,2142.8571428571427
+Maruti 800 AC BSIII,2009,83000,Petrol,Individual,Manual,Second Owner,16,Maruti,5187.5
+Hyundai Venue SX Opt Diesel,2019,5000,Diesel,Dealer,Manual,First Owner,6,Hyundai,833.3333333333334
+Ford Figo Aspire 1.2 Ti-VCT Titanium Plus,2018,15000,Petrol,Individual,Manual,First Owner,7,Ford,2142.8571428571427
+Mahindra Bolero Power Plus SLX,2019,15000,Diesel,Individual,Manual,First Owner,6,Mahindra,2500.0
+Mahindra Scorpio M2DI,2012,110000,Diesel,Individual,Manual,Fourth & Above Owner,13,Mahindra,8461.538461538461
+Mahindra Scorpio S7 140 BSIV,2018,20000,Diesel,Individual,Manual,First Owner,7,Mahindra,2857.1428571428573
+Hyundai i10 Sportz 1.1L,2015,35925,Petrol,Dealer,Manual,First Owner,10,Hyundai,3592.5
+Mahindra Bolero Power Plus SLX,2018,44000,Diesel,Individual,Manual,First Owner,7,Mahindra,6285.714285714285
+Maruti Swift 1.3 VXi,2009,52536,Petrol,Individual,Manual,First Owner,16,Maruti,3283.5
+Mahindra XUV500 W8 4WD,2012,120000,Diesel,Individual,Manual,Third Owner,13,Mahindra,9230.76923076923
+Volkswagen Jetta 2.0L TDI Highline AT,2012,55300,Diesel,Dealer,Automatic,First Owner,13,Volkswagen,4253.846153846154
+Toyota Etios Liva 1.2 G,2014,42000,Petrol,Dealer,Manual,Second Owner,11,Toyota,3818.181818181818
+Tata Indigo TDI,2010,100000,Diesel,Individual,Manual,First Owner,15,Tata,6666.666666666667
+Ford EcoSport 1.5 TDCi Titanium BSIV,2016,25061,Diesel,Dealer,Manual,First Owner,9,Ford,2784.5555555555557
+Hyundai i20 Magna,2010,60000,Petrol,Individual,Manual,Third Owner,15,Hyundai,4000.0
+Maruti Zen LX,2000,80000,Petrol,Individual,Manual,Second Owner,25,Maruti,3200.0
+Hyundai Santro Xing GLS,2009,120000,Petrol,Individual,Manual,First Owner,16,Hyundai,7500.0
+Mercedes-Benz GLS 2016-2020 350d 4MATIC,2016,77350,Diesel,Dealer,Automatic,First Owner,9,Mercedes-Benz,8594.444444444445
+Maruti 800 AC BSIII,2007,90000,Petrol,Individual,Manual,Second Owner,18,Maruti,5000.0
+Tata Spacio SA 6 Seater,2009,75000,Diesel,Individual,Manual,First Owner,16,Tata,4687.5
+Maruti Swift VXI,2012,59858,Petrol,Dealer,Manual,First Owner,13,Maruti,4604.461538461538
+Maruti Alto 800 LXI,2018,35000,Petrol,Individual,Manual,First Owner,7,Maruti,5000.0
+Maruti Swift Dzire VDI,2015,60000,Diesel,Individual,Manual,Second Owner,10,Maruti,6000.0
+Hyundai Elantra SX,2015,48000,Petrol,Dealer,Manual,First Owner,10,Hyundai,4800.0
+Maruti Swift Dzire ZDI,2017,67000,Diesel,Individual,Manual,First Owner,8,Maruti,8375.0
+Honda City S,2012,40700,Petrol,Individual,Manual,First Owner,13,Honda,3130.769230769231
+Maruti Swift 1.3 VXi,2006,110000,Petrol,Individual,Manual,Third Owner,19,Maruti,5789.473684210527
+Mahindra Xylo D2 BSIV,2013,120000,Diesel,Individual,Manual,First Owner,12,Mahindra,10000.0
+Skoda Rapid 1.5 TDI AT Ambition BSIV,2017,40000,Diesel,Individual,Automatic,First Owner,8,Skoda,5000.0
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2018,2500,Petrol,Individual,Manual,First Owner,7,Hyundai,357.14285714285717
+Maruti Alto LXi,2012,80000,Petrol,Individual,Manual,Third Owner,13,Maruti,6153.846153846154
+Maruti Wagon R LXI BS IV,2013,80000,Petrol,Individual,Manual,First Owner,12,Maruti,6666.666666666667
+Tata Tiago 1.2 Revotron XZA,2019,15000,Petrol,Individual,Automatic,Second Owner,6,Tata,2500.0
+Toyota Innova 2.5 V Diesel 8-seater,2009,120000,Diesel,Individual,Manual,Third Owner,16,Toyota,7500.0
+Tata Sumo Victa CX 7/9 Str BSII,2012,120000,Diesel,Individual,Manual,Second Owner,13,Tata,9230.76923076923
+Chevrolet Beat Diesel LT,2012,125000,Diesel,Individual,Manual,First Owner,13,Chevrolet,9615.384615384615
+Hyundai i20 1.4 Magna ABS,2009,60000,Diesel,Individual,Manual,Second Owner,16,Hyundai,3750.0
+Hyundai Verna 1.6 SX CRDi (O),2011,90000,Diesel,Individual,Manual,First Owner,14,Hyundai,6428.571428571428
+Tata Indica Vista Aqua 1.2 Safire BSIV,2010,128000,Petrol,Individual,Manual,First Owner,15,Tata,8533.333333333334
+Maruti Ciaz ZXi Plus,2016,6000,Petrol,Dealer,Manual,First Owner,9,Maruti,666.6666666666666
+Hyundai i10 Sportz 1.2,2010,100000,Petrol,Individual,Manual,Second Owner,15,Hyundai,6666.666666666667
+Chevrolet Beat Diesel,2013,60000,Diesel,Individual,Manual,Second Owner,12,Chevrolet,5000.0
+Maruti 800 Std,1998,40000,Petrol,Individual,Manual,Fourth & Above Owner,27,Maruti,1481.4814814814815
+Hyundai i20 1.2 Era,2010,34500,Petrol,Individual,Manual,Second Owner,15,Hyundai,2300.0
+Hyundai Verna 1.6 SX,2014,78000,Diesel,Individual,Manual,Second Owner,11,Hyundai,7090.909090909091
+Hyundai i20 Asta (o),2009,50000,Petrol,Individual,Manual,First Owner,16,Hyundai,3125.0
+Toyota Innova 2.5 G (Diesel) 7 Seater,2013,70000,Diesel,Individual,Manual,Second Owner,12,Toyota,5833.333333333333
+Maruti S-Cross Zeta DDiS 200 SH,2018,50000,Diesel,Individual,Manual,First Owner,7,Maruti,7142.857142857143
+Ford Figo Aspire 1.2 Ti-VCT Titanium Plus,2015,70000,Petrol,Individual,Manual,First Owner,10,Ford,7000.0
+Hyundai Sonata AT Leather,2006,80000,Petrol,Individual,Automatic,Third Owner,19,Hyundai,4210.526315789473
+Honda City Corporate Edition,2013,45241,Petrol,Dealer,Manual,First Owner,12,Honda,3770.0833333333335
+Fiat Grande Punto EVO 90HP 1.3 Sport,2014,90000,Diesel,Individual,Manual,First Owner,11,Fiat,8181.818181818182
+Honda City V AT,2011,97000,Petrol,Dealer,Automatic,Second Owner,14,Honda,6928.571428571428
+Hyundai Verna VTVT 1.6 SX,2018,40000,Petrol,Individual,Manual,First Owner,7,Hyundai,5714.285714285715
+Maruti Wagon R AMT VXI,2014,28942,Petrol,Dealer,Automatic,First Owner,11,Maruti,2631.090909090909
+Honda Civic 1.8 (E) MT,2006,80000,Petrol,Individual,Manual,Second Owner,19,Honda,4210.526315789473
+Mercedes-Benz E-Class Exclusive E 200 BSIV,2018,9800,Petrol,Dealer,Automatic,First Owner,7,Mercedes-Benz,1400.0
+Maruti Wagon R LX,2006,96000,Petrol,Individual,Manual,Second Owner,19,Maruti,5052.631578947368
+Maruti Ciaz ZDi Plus,2016,72787,Diesel,Trustmark Dealer,Manual,First Owner,9,Maruti,8087.444444444444
+Tata Indica GLS BS IV,2008,90000,Petrol,Individual,Manual,Second Owner,17,Tata,5294.117647058823
+Maruti Alto K10 VXI,2014,100000,Petrol,Individual,Manual,Second Owner,11,Maruti,9090.90909090909
+Ford Freestyle Titanium Diesel,2020,101,Diesel,Dealer,Manual,Test Drive Car,5,Ford,20.2
+Honda CR-V Diesel 4WD,2018,26000,Diesel,Individual,Automatic,First Owner,7,Honda,3714.285714285714
+Chevrolet Beat Diesel LS,2013,70000,Diesel,Individual,Manual,First Owner,12,Chevrolet,5833.333333333333
+Honda City i-VTEC CVT ZX,2018,23038,Petrol,Trustmark Dealer,Automatic,First Owner,7,Honda,3291.1428571428573
+Toyota Innova Crysta 2.4 VX MT 8S BSIV,2019,20000,Diesel,Individual,Manual,First Owner,6,Toyota,3333.3333333333335
+Ford Figo Aspire Titanium Plus Diesel,2019,13000,Diesel,Dealer,Manual,Test Drive Car,6,Ford,2166.6666666666665
+Maruti Alto 800 Std Optional,2019,5000,Petrol,Individual,Manual,First Owner,6,Maruti,833.3333333333334
+Tata New Safari Dicor EX 4X2 BS IV,2012,110000,Diesel,Individual,Manual,Fourth & Above Owner,13,Tata,8461.538461538461
+Maruti Alto 800 LXI,2013,60000,Petrol,Individual,Manual,Second Owner,12,Maruti,5000.0
+Chevrolet Spark 1.0 LS,2009,60000,Petrol,Individual,Manual,Third Owner,16,Chevrolet,3750.0
+Maruti Wagon R VXI,2005,100000,Petrol,Individual,Manual,Third Owner,20,Maruti,5000.0
+Tata Indigo LS Dicor,2011,80000,Diesel,Individual,Manual,First Owner,14,Tata,5714.285714285715
+Ford Ecosport 1.5 Diesel Titanium,2016,57904,Diesel,Dealer,Manual,First Owner,9,Ford,6433.777777777777
+Chevrolet Cruze LTZ,2015,3600,Diesel,Dealer,Manual,First Owner,10,Chevrolet,360.0
+Toyota Innova 2.5 G (Diesel) 8 Seater,2014,70000,Diesel,Individual,Manual,Second Owner,11,Toyota,6363.636363636364
+Maruti Ertiga VXI,2015,11918,Petrol,Trustmark Dealer,Manual,First Owner,10,Maruti,1191.8
+Hyundai Verna 1.6 VTVT SX,2015,55340,Petrol,Trustmark Dealer,Manual,First Owner,10,Hyundai,5534.0
+Maruti Wagon R VXI BSIII,2003,90000,Petrol,Individual,Manual,Second Owner,22,Maruti,4090.909090909091
+Hyundai i20 Magna 1.4 CRDi (Diesel),2012,92686,Diesel,Dealer,Manual,Second Owner,13,Hyundai,7129.692307692308
+Tata Nano Lx BSIII,2011,60000,Petrol,Individual,Manual,Second Owner,14,Tata,4285.714285714285
+Hyundai Santro Xing GL Plus,2013,80000,Petrol,Individual,Manual,First Owner,12,Hyundai,6666.666666666667
+Maruti Alto LXi,2008,70000,Petrol,Individual,Manual,First Owner,17,Maruti,4117.64705882353
+Mahindra Scorpio VLX 2WD AT BSIV,2009,155000,Diesel,Individual,Automatic,Third Owner,16,Mahindra,9687.5
+Hyundai EON 1.0 Kappa Magna Plus,2015,70000,Petrol,Individual,Manual,First Owner,10,Hyundai,7000.0
+Mahindra Bolero SLX,2011,90000,Diesel,Individual,Manual,Second Owner,14,Mahindra,6428.571428571428
+Ford Ecosport 1.5 DV5 MT Titanium,2015,68000,Diesel,Individual,Manual,First Owner,10,Ford,6800.0
+Tata Manza Club Class Quadrajet90 EX,2012,60000,Diesel,Individual,Manual,First Owner,13,Tata,4615.384615384615
+Maruti Alto 800 VXI,2020,40000,Petrol,Individual,Manual,First Owner,5,Maruti,8000.0
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2019,25000,Petrol,Individual,Manual,First Owner,6,Hyundai,4166.666666666667
+Honda Brio S Option AT,2012,75000,Petrol,Individual,Automatic,Second Owner,13,Honda,5769.2307692307695
+Maruti Zen LX,1998,70000,Petrol,Individual,Manual,Third Owner,27,Maruti,2592.5925925925926
+Toyota Etios GD SP,2013,75000,Diesel,Dealer,Manual,First Owner,12,Toyota,6250.0
+Renault KWID 1.0 RXT Optional,2017,70000,Petrol,Individual,Manual,First Owner,8,Renault,8750.0
+Maruti Wagon R LXI,2011,28481,Petrol,Dealer,Manual,First Owner,14,Maruti,2034.357142857143
+Mahindra KUV 100 mFALCON G80 K2 Plus,2016,21000,Petrol,Individual,Manual,First Owner,9,Mahindra,2333.3333333333335
+Mahindra TUV 300 T4 Plus,2018,50000,Diesel,Individual,Manual,First Owner,7,Mahindra,7142.857142857143
+Hyundai Xcent 1.1 CRDi Base,2015,72000,Diesel,Individual,Manual,First Owner,10,Hyundai,7200.0
+Maruti Alto LXi BSIII,2008,80000,Petrol,Individual,Manual,First Owner,17,Maruti,4705.882352941177
+Mahindra Bolero Power Plus Plus AC BSIV PS,2018,35000,Diesel,Individual,Manual,First Owner,7,Mahindra,5000.0
+Tata Harrier XE,2020,1000,Diesel,Individual,Manual,First Owner,5,Tata,200.0
+Tata Nano Lx,2010,90000,Petrol,Individual,Manual,First Owner,15,Tata,6000.0
+Hyundai i10 Sportz 1.1L,2014,37555,Petrol,Dealer,Manual,First Owner,11,Hyundai,3414.090909090909
+Tata Nano LX SE,2012,35000,Petrol,Individual,Manual,Third Owner,13,Tata,2692.3076923076924
+Tata New Safari DICOR 2.2 EX 4x2,2009,120000,Diesel,Individual,Manual,Second Owner,16,Tata,7500.0
+Maruti Wagon R VXI,2012,80000,Petrol,Dealer,Manual,First Owner,13,Maruti,6153.846153846154
+Mahindra Scorpio 2.6 Turbo 7 Str,2007,100000,Diesel,Individual,Manual,Second Owner,18,Mahindra,5555.555555555556
+Maruti Alto LXI,2003,5000,Petrol,Individual,Manual,Second Owner,22,Maruti,227.27272727272728
+Toyota Innova 2.5 GX (Diesel) 7 Seater,2014,244000,Diesel,Individual,Manual,First Owner,11,Toyota,22181.81818181818
+Honda WR-V i-VTEC VX,2018,1440,Petrol,Individual,Manual,First Owner,7,Honda,205.71428571428572
+Mahindra Marazzo M4,2018,15000,Diesel,Individual,Manual,Second Owner,7,Mahindra,2142.8571428571427
+Honda Amaze S CVT Petrol,2019,10000,Petrol,Individual,Automatic,First Owner,6,Honda,1666.6666666666667
+Maruti Alto K10 VXI,2015,60000,Petrol,Individual,Manual,First Owner,10,Maruti,6000.0
+Maruti Ertiga ZDI,2015,100000,Diesel,Individual,Manual,First Owner,10,Maruti,10000.0
+Toyota Camry M/t,2008,75000,Petrol,Individual,Manual,Second Owner,17,Toyota,4411.764705882353
+Maruti 800 AC,2007,70000,Petrol,Individual,Manual,First Owner,18,Maruti,3888.8888888888887
+Honda City i-VTEC CVT ZX,2018,22000,Petrol,Dealer,Automatic,First Owner,7,Honda,3142.8571428571427
+Maruti Ritz VXI,2009,80000,Petrol,Individual,Manual,First Owner,16,Maruti,5000.0
+Mahindra XUV500 AT W6 2WD,2017,40000,Diesel,Individual,Automatic,First Owner,8,Mahindra,5000.0
+Renault KWID 1.0 RXT Optional,2018,10500,Petrol,Individual,Manual,First Owner,7,Renault,1500.0
+Hyundai Santro LS zipPlus,2003,60000,Petrol,Individual,Manual,First Owner,22,Hyundai,2727.2727272727275
+Honda Jazz S,2009,50000,Petrol,Individual,Manual,First Owner,16,Honda,3125.0
+Renault Captur 1.5 Diesel RXT,2017,13500,Diesel,Individual,Manual,First Owner,8,Renault,1687.5
+Maruti Swift 1.3 VXI ABS,2006,110000,Petrol,Individual,Manual,Third Owner,19,Maruti,5789.473684210527
+Ford Aspire Titanium Plus Diesel BSIV,2019,15000,Diesel,Individual,Manual,First Owner,6,Ford,2500.0
+Tata Indigo LS,2012,70000,Diesel,Individual,Manual,Second Owner,13,Tata,5384.615384615385
+Fiat Grande Punto EVO 1.3 Dynamic,2014,70000,Diesel,Individual,Manual,First Owner,11,Fiat,6363.636363636364
+Volkswagen Vento Celeste 1.5 TDI Highline AT,2016,70000,Diesel,Individual,Automatic,First Owner,9,Volkswagen,7777.777777777777
+Renault Duster 110PS Diesel RxL,2015,15000,Diesel,Individual,Manual,First Owner,10,Renault,1500.0
+Toyota Innova 2.5 GX (Diesel) 7 Seater,2015,128000,Diesel,Individual,Manual,First Owner,10,Toyota,12800.0
+Mahindra Quanto C8,2013,25000,Diesel,Individual,Manual,Second Owner,12,Mahindra,2083.3333333333335
+Maruti SX4 ZDI,2011,105000,Diesel,Dealer,Manual,First Owner,14,Maruti,7500.0
+Chevrolet Enjoy TCDi LT 8 Seater,2015,50000,Diesel,Individual,Manual,First Owner,10,Chevrolet,5000.0
+Audi Q5 2.0 TFSI Quattro,2010,110000,Petrol,Individual,Automatic,First Owner,15,Audi,7333.333333333333
+Tata Indica Vista Aqua 1.3 Quadrajet,2010,110000,Diesel,Individual,Manual,Second Owner,15,Tata,7333.333333333333
+Hyundai i20 Asta 1.2,2015,64484,Petrol,Dealer,Manual,First Owner,10,Hyundai,6448.4
+Maruti Alto LX BSIII,2008,90000,Petrol,Individual,Manual,Second Owner,17,Maruti,5294.117647058823
+Hyundai Grand i10 Magna,2015,90000,Petrol,Individual,Manual,First Owner,10,Hyundai,9000.0
+Hyundai i10 Magna 1.2,2010,60000,Petrol,Individual,Manual,Second Owner,15,Hyundai,4000.0
+Chevrolet Beat Diesel LS,2012,85000,Diesel,Individual,Manual,First Owner,13,Chevrolet,6538.461538461538
+Hyundai i20 Asta (o),2014,54000,Petrol,Dealer,Manual,Second Owner,11,Hyundai,4909.090909090909
+Mahindra Bolero DI,2010,100000,Diesel,Individual,Manual,First Owner,15,Mahindra,6666.666666666667
+Maruti Wagon R VXI BS IV,2014,70000,Petrol,Individual,Manual,Third Owner,11,Maruti,6363.636363636364
+Ford Endeavour Titanium Plus 4X4,2017,60000,Diesel,Dealer,Automatic,First Owner,8,Ford,7500.0
+Maruti Alto LXi,2007,85000,Petrol,Individual,Manual,Second Owner,18,Maruti,4722.222222222223
+Hyundai Verna CRDi,2008,90000,Diesel,Individual,Manual,Second Owner,17,Hyundai,5294.117647058823
+Maruti Alto K10 VXI,2017,31489,Petrol,Individual,Manual,First Owner,8,Maruti,3936.125
+Maruti Baleno Alpha CVT,2018,11212,Petrol,Trustmark Dealer,Automatic,First Owner,7,Maruti,1601.7142857142858
+Ford EcoSport 1.5 Diesel Titanium BSIV,2019,17000,Diesel,Individual,Manual,First Owner,6,Ford,2833.3333333333335
+Tata Safari Storme VX Varicor 400,2018,15000,Diesel,Individual,Manual,First Owner,7,Tata,2142.8571428571427
+Maruti Zen VXI,2006,77000,Petrol,Individual,Manual,Second Owner,19,Maruti,4052.631578947368
+Volkswagen Polo Diesel Trendline 1.2L,2012,82000,Diesel,Individual,Manual,Second Owner,13,Volkswagen,6307.692307692308
+Maruti Swift VXI BSIV,2019,10000,Petrol,Individual,Manual,First Owner,6,Maruti,1666.6666666666667
+Hyundai i10 Era,2013,50000,Petrol,Individual,Manual,First Owner,12,Hyundai,4166.666666666667
+Tata Indica Vista Aqua 1.3 Quadrajet ABS BSIV,2012,70000,Diesel,Individual,Manual,Second Owner,13,Tata,5384.615384615385
+Nissan Micra Diesel XV Premium,2011,90000,Diesel,Individual,Manual,Second Owner,14,Nissan,6428.571428571428
+Honda Civic 1.8 S AT,2007,47000,Petrol,Dealer,Automatic,First Owner,18,Honda,2611.1111111111113
+Maruti Wagon R LX Minor,2013,70000,Petrol,Individual,Manual,Fourth & Above Owner,12,Maruti,5833.333333333333
+Mahindra Scorpio 1.99 S10,2016,15000,Diesel,Individual,Manual,Second Owner,9,Mahindra,1666.6666666666667
+Hyundai EON Era Plus Option,2016,30000,Petrol,Individual,Manual,Second Owner,9,Hyundai,3333.3333333333335
+Hyundai Santro Xing GLS,2010,90000,Petrol,Individual,Manual,Third Owner,15,Hyundai,6000.0
+Tata Indigo TDI,2012,35000,Diesel,Individual,Manual,First Owner,13,Tata,2692.3076923076924
+Maruti Vitara Brezza LDi Option,2017,72000,Diesel,Dealer,Manual,First Owner,8,Maruti,9000.0
+Maruti Swift ZXI ABS,2007,80000,Petrol,Individual,Manual,Second Owner,18,Maruti,4444.444444444444
+Hyundai Creta 1.6 CRDi SX Plus,2015,84000,Diesel,Dealer,Manual,First Owner,10,Hyundai,8400.0
+Maruti Alto K10 VXI,2018,20000,Petrol,Individual,Manual,First Owner,7,Maruti,2857.1428571428573
+Skoda Rapid 1.6 MPI AT Elegance Plus,2015,70000,Petrol,Individual,Automatic,First Owner,10,Skoda,7000.0
+Renault Duster 85PS Diesel RxL Optional,2012,150000,Diesel,Individual,Manual,First Owner,13,Renault,11538.46153846154
+Renault KWID RXT,2015,50000,Petrol,Individual,Manual,First Owner,10,Renault,5000.0
+Maruti Esteem Lxi - BSIII,2006,90000,Petrol,Individual,Manual,First Owner,19,Maruti,4736.8421052631575
+Hyundai Creta 1.6 CRDi SX,2015,58692,Diesel,Trustmark Dealer,Manual,First Owner,10,Hyundai,5869.2
+Mahindra TUV 300 Plus P4,2018,30000,Diesel,Individual,Manual,Second Owner,7,Mahindra,4285.714285714285
+Maruti Ritz VXi,2014,35000,Petrol,Individual,Manual,First Owner,11,Maruti,3181.818181818182
+Chevrolet Spark 1.0,2010,80000,Petrol,Individual,Manual,Second Owner,15,Chevrolet,5333.333333333333
+Maruti Alto LX BSIII,2008,120000,Petrol,Individual,Manual,Second Owner,17,Maruti,7058.823529411765
+Honda Jazz 1.5 VX i DTEC,2015,38000,Diesel,Individual,Manual,First Owner,10,Honda,3800.0
+Maruti Alto LXi,2009,120000,Petrol,Individual,Manual,Second Owner,16,Maruti,7500.0
+Maruti SX4 ZDI Leather,2012,60000,Diesel,Individual,Manual,Second Owner,13,Maruti,4615.384615384615
+Maruti Swift Dzire VDI,2014,107143,Diesel,Individual,Manual,Second Owner,11,Maruti,9740.272727272728
+Mahindra Scorpio VLS 2.2 mHawk,2008,270000,Diesel,Individual,Manual,Third Owner,17,Mahindra,15882.35294117647
+Maruti Ertiga SHVS ZDI Plus,2018,50000,Diesel,Individual,Manual,First Owner,7,Maruti,7142.857142857143
+Ford Aspire Titanium Diesel BSIV,2016,155201,Diesel,Dealer,Manual,First Owner,9,Ford,17244.555555555555
+Hyundai Grand i10 1.2 Kappa Magna BSIV,2018,23000,Petrol,Individual,Manual,First Owner,7,Hyundai,3285.714285714286
+Mahindra Scorpio 1.99 S10,2015,55000,Diesel,Individual,Manual,Second Owner,10,Mahindra,5500.0
+Maruti Wagon R LX BS IV,2011,155000,Petrol,Individual,Manual,First Owner,14,Maruti,11071.42857142857
+Maruti Swift Dzire ZXI 1.2 BS IV,2018,25000,Petrol,Individual,Manual,First Owner,7,Maruti,3571.4285714285716
+Nissan Terrano XL Plus ICC WT20 SE,2016,60000,Diesel,Individual,Manual,First Owner,9,Nissan,6666.666666666667
+Datsun GO Plus T Option,2017,80000,Petrol,Individual,Manual,First Owner,8,Datsun,10000.0
+Volkswagen Vento 1.5 Highline Plus AT 16 Alloy,2017,110000,Diesel,Individual,Automatic,First Owner,8,Volkswagen,13750.0
+Honda City i VTEC S,2014,60000,Petrol,Individual,Manual,First Owner,11,Honda,5454.545454545455
+Volkswagen Polo Diesel Highline 1.2L,2013,44049,Diesel,Dealer,Manual,First Owner,12,Volkswagen,3670.75
+Maruti Zen LX,2004,79000,Petrol,Individual,Manual,Second Owner,21,Maruti,3761.904761904762
+Audi A4 30 TFSI Technology,2018,22000,Petrol,Individual,Automatic,First Owner,7,Audi,3142.8571428571427
+Nissan Terrano XL Plus 85 PS,2015,100000,Diesel,Individual,Manual,First Owner,10,Nissan,10000.0
+Maruti Wagon R VXI BS IV,2014,15000,Petrol,Individual,Manual,Second Owner,11,Maruti,1363.6363636363635
+Hyundai i20 Asta Option 1.4 CRDi,2016,80000,Diesel,Individual,Manual,First Owner,9,Hyundai,8888.888888888889
+Tata Indica GLS BS IV,2010,110000,Petrol,Individual,Manual,Second Owner,15,Tata,7333.333333333333
+Toyota Innova 2.5 V Diesel 8-seater,2009,138000,Diesel,Individual,Manual,Third Owner,16,Toyota,8625.0
+Hyundai EON Era Plus,2016,24662,Petrol,Dealer,Manual,First Owner,9,Hyundai,2740.222222222222
+Nissan Terrano XL 110 PS,2014,136906,Diesel,Individual,Manual,First Owner,11,Nissan,12446.0
+Maruti Wagon R LXI,2005,40000,Petrol,Individual,Manual,Second Owner,20,Maruti,2000.0
+Ford Ecosport 1.5 Petrol Titanium Plus AT,2018,10000,Petrol,Individual,Automatic,First Owner,7,Ford,1428.571428571429
+Maruti Swift VDI,2007,50000,Diesel,Dealer,Manual,First Owner,18,Maruti,2777.777777777778
+Tata Indigo Grand Petrol,2014,60000,Petrol,Individual,Manual,Second Owner,11,Tata,5454.545454545455
+Hyundai Verna 1.6 VTVT,2010,38000,Petrol,Dealer,Manual,First Owner,15,Hyundai,2533.3333333333335
+Maruti Swift Dzire AMT VDI,2018,50000,Diesel,Individual,Automatic,First Owner,7,Maruti,7142.857142857143
+Maruti Wagon R LXI DUO BSIII,2009,60000,LPG,Individual,Manual,Second Owner,16,Maruti,3750.0
+Maruti Zen Estilo LXI BSIII,2007,10211,Petrol,Individual,Manual,First Owner,18,Maruti,567.2777777777778
+Tata Tiago 1.05 Revotorq XT Option,2017,35000,Diesel,Individual,Manual,First Owner,8,Tata,4375.0
+Ford Figo Diesel Titanium,2012,63700,Diesel,Individual,Manual,First Owner,13,Ford,4900.0
+Hyundai EON Era Plus,2015,25000,Petrol,Individual,Manual,First Owner,10,Hyundai,2500.0
+Maruti Swift Dzire VDI,2014,110000,Diesel,Individual,Manual,Second Owner,11,Maruti,10000.0
+Toyota Corolla Altis GL MT,2016,64156,Petrol,Trustmark Dealer,Manual,First Owner,9,Toyota,7128.444444444444
+Hyundai Santro LE zipPlus,2001,70000,Petrol,Individual,Manual,First Owner,24,Hyundai,2916.6666666666665
+Maruti 800 DX,2000,60000,Petrol,Individual,Manual,First Owner,25,Maruti,2400.0
+Mahindra Xylo D4,2018,87000,Diesel,Individual,Manual,First Owner,7,Mahindra,12428.57142857143
+Mahindra Scorpio 2.6 Turbo 7 Str,2008,120000,Diesel,Individual,Manual,Second Owner,17,Mahindra,7058.823529411765
+Maruti Swift Vdi BSIII,2009,200000,Diesel,Individual,Manual,Fourth & Above Owner,16,Maruti,12500.0
+Mahindra Bolero Power Plus SLX,2018,40890,Diesel,Dealer,Manual,First Owner,7,Mahindra,5841.428571428572
+Maruti Ritz VDi,2009,80000,Diesel,Individual,Manual,Third Owner,16,Maruti,5000.0
+Toyota Corolla Altis G AT,2016,50000,Petrol,Individual,Automatic,First Owner,9,Toyota,5555.555555555556
+Toyota Fortuner 2.8 2WD AT BSIV,2018,40000,Diesel,Individual,Automatic,First Owner,7,Toyota,5714.285714285715
+Tata Tiago 1.2 Revotron XZ,2019,2417,Petrol,Individual,Manual,First Owner,6,Tata,402.8333333333333
+Hyundai Grand i10 CRDi Sportz,2014,70000,Diesel,Individual,Manual,Second Owner,11,Hyundai,6363.636363636364
+Renault KWID Climber 1.0 MT Opt BSIV,2020,1000,Petrol,Dealer,Manual,Test Drive Car,5,Renault,200.0
+Hyundai Grand i10 1.2 Kappa Sportz BSIV,2016,28643,Petrol,Dealer,Manual,First Owner,9,Hyundai,3182.5555555555557
+Toyota Innova 2.5 VX 8 STR,2012,82000,Diesel,Individual,Manual,First Owner,13,Toyota,6307.692307692308
+Chevrolet Beat Diesel LT,2013,46000,Diesel,Individual,Manual,First Owner,12,Chevrolet,3833.3333333333335
+Toyota Innova 2.5 G (Diesel) 8 Seater,2011,135200,Diesel,Dealer,Manual,First Owner,14,Toyota,9657.142857142857
+Kia Seltos HTK Plus AT D,2019,10000,Diesel,Individual,Automatic,First Owner,6,Kia,1666.6666666666667
+Hyundai i10 Sportz 1.2,2010,63000,Petrol,Individual,Manual,Second Owner,15,Hyundai,4200.0
+Tata Zest Revotron 1.2T XMS,2016,25000,Petrol,Individual,Manual,First Owner,9,Tata,2777.777777777778
+Honda BRV i-DTEC V MT,2017,30000,Diesel,Individual,Manual,First Owner,8,Honda,3750.0
+Hyundai EON Magna Plus,2013,40000,Petrol,Individual,Manual,Second Owner,12,Hyundai,3333.3333333333335
+Mahindra KUV 100 mFALCON D75 K6,2016,20000,Diesel,Individual,Manual,First Owner,9,Mahindra,2222.222222222222
+Hyundai Santro Xing XG AT,2004,70000,Petrol,Individual,Automatic,Second Owner,21,Hyundai,3333.3333333333335
+Audi Q7 35 TDI Quattro Premium,2009,78000,Diesel,Dealer,Automatic,Third Owner,16,Audi,4875.0
+Hyundai i10 Magna,2012,50000,Petrol,Individual,Manual,First Owner,13,Hyundai,3846.153846153846
+Volkswagen Jetta 2.0L TDI Comfortline,2012,80000,Diesel,Individual,Manual,Second Owner,13,Volkswagen,6153.846153846154
+Maruti Wagon R LX Minor,2013,38000,Petrol,Individual,Manual,First Owner,12,Maruti,3166.6666666666665
+Renault Duster RXL AWD,2014,66569,Diesel,Dealer,Manual,First Owner,11,Renault,6051.727272727273
+Maruti Alto 800 LXI,2018,35000,Petrol,Dealer,Manual,First Owner,7,Maruti,5000.0
+Honda WR-V i-VTEC VX,2017,29976,Petrol,Dealer,Manual,First Owner,8,Honda,3747.0
+Maruti Alto K10 VXI AGS Optional,2018,25000,Petrol,Individual,Automatic,First Owner,7,Maruti,3571.4285714285716
+Tata Indica LSI,2005,140000,Petrol,Individual,Manual,Third Owner,20,Tata,7000.0
+Toyota Etios Liva GD SP,2012,120000,Diesel,Individual,Manual,First Owner,13,Toyota,9230.76923076923
+Maruti Alto K10 VXI,2014,80000,Petrol,Individual,Manual,Second Owner,11,Maruti,7272.727272727273
+Maruti Alto LX BSIII,2008,120000,Petrol,Individual,Manual,First Owner,17,Maruti,7058.823529411765
+Ford Figo Diesel EXI,2012,80000,Diesel,Individual,Manual,Second Owner,13,Ford,6153.846153846154
+Maruti Swift VDI BSIV,2015,60000,Diesel,Individual,Manual,Second Owner,10,Maruti,6000.0
+Hyundai Creta 1.6 CRDi SX Plus,2016,60000,Diesel,Individual,Manual,Third Owner,9,Hyundai,6666.666666666667
+Ford Endeavour Hurricane Limited Edition,2007,110000,Diesel,Individual,Automatic,Fourth & Above Owner,18,Ford,6111.111111111111
+Tata Indica GLS BS IV,2008,200000,Petrol,Individual,Manual,First Owner,17,Tata,11764.70588235294
+Ford Fiesta Titanium 1.5 TDCi,2012,120000,Diesel,Individual,Manual,First Owner,13,Ford,9230.76923076923
+Hyundai i20 1.2 Magna,2012,44000,Petrol,Individual,Manual,First Owner,13,Hyundai,3384.6153846153848
+Honda Civic 1.8 S MT,2007,70000,Petrol,Individual,Manual,Third Owner,18,Honda,3888.8888888888887
+Datsun RediGO T Option,2017,50000,Petrol,Individual,Manual,First Owner,8,Datsun,6250.0
+Audi Q3 2.0 TDI Quattro Premium Plus,2014,110000,Diesel,Individual,Automatic,Second Owner,11,Audi,10000.0
+Toyota Yaris G,2018,19107,Petrol,Trustmark Dealer,Manual,First Owner,7,Toyota,2729.5714285714284
+Toyota Etios Liva GD,2012,137250,Diesel,Individual,Manual,Second Owner,13,Toyota,10557.692307692309
+Toyota Camry Hybrid,2006,62000,Electric,Dealer,Automatic,Second Owner,19,Toyota,3263.157894736842
+Volkswagen Polo GTI,2017,20000,Petrol,Dealer,Automatic,Second Owner,8,Volkswagen,2500.0
+Maruti Eeco 7 Seater Standard BSIV,2017,24000,Petrol,Individual,Manual,First Owner,8,Maruti,3000.0
+Maruti Wagon R CNG LXI,2013,59100,CNG,Dealer,Manual,First Owner,12,Maruti,4925.0
+Honda Mobilio V i DTEC,2015,120000,Diesel,Individual,Manual,First Owner,10,Honda,12000.0
+Toyota Innova Crysta 2.8 ZX AT BSIV,2017,75000,Diesel,Individual,Automatic,First Owner,8,Toyota,9375.0
+Mahindra Bolero SLX 2WD BSIII,2011,150000,Diesel,Individual,Manual,Fourth & Above Owner,14,Mahindra,10714.285714285714
+Hyundai Creta 1.6 CRDi SX Plus,2018,30000,Diesel,Individual,Manual,First Owner,7,Hyundai,4285.714285714285
+Hyundai Grand i10 Nios AMT Magna,2020,4000,Petrol,Individual,Automatic,First Owner,5,Hyundai,800.0
+Mahindra XUV500 W6 2WD,2014,80000,Diesel,Individual,Manual,Second Owner,11,Mahindra,7272.727272727273
+Hyundai Creta 1.6 CRDi SX Option,2015,90000,Diesel,Individual,Manual,Second Owner,10,Hyundai,9000.0
+Tata Nano Lx BSIV,2012,35000,Petrol,Individual,Manual,Second Owner,13,Tata,2692.3076923076924
+Maruti Swift Dzire VDI,2018,20000,Diesel,Individual,Manual,First Owner,7,Maruti,2857.1428571428573
+Hyundai Verna 1.4 VTVT,2015,25000,Petrol,Individual,Manual,First Owner,10,Hyundai,2500.0
+Ford Figo Diesel ZXI,2012,125000,Diesel,Individual,Manual,Second Owner,13,Ford,9615.384615384615
+Honda Brio 1.2 S MT,2012,47000,Petrol,Dealer,Manual,First Owner,13,Honda,3615.3846153846152
+Honda WR-V i-DTEC VX,2018,35000,Diesel,Individual,Manual,First Owner,7,Honda,5000.0
+Ford Ecosport 1.5 Diesel Titanium,2017,42494,Diesel,Dealer,Manual,First Owner,8,Ford,5311.75
+Honda City 1.5 EXI,2005,120000,Petrol,Individual,Manual,Second Owner,20,Honda,6000.0
+Toyota Etios Liva GD,2013,70000,Diesel,Individual,Manual,Second Owner,12,Toyota,5833.333333333333
+Renault Duster 85PS Diesel RxL Optional,2013,190000,Diesel,Individual,Manual,Second Owner,12,Renault,15833.333333333334
+Hyundai Verna CRDi SX ABS,2009,136000,Diesel,Individual,Manual,Second Owner,16,Hyundai,8500.0
+Tata Tiago 1.05 Revotorq XZ Plus,2018,35000,Diesel,Individual,Manual,First Owner,7,Tata,5000.0
+Maruti Swift VXI BSIII,2011,70000,Petrol,Individual,Manual,Second Owner,14,Maruti,5000.0
+Ford Ecosport 1.5 DV5 MT Titanium,2015,146000,Diesel,Dealer,Manual,First Owner,10,Ford,14600.0
+Maruti Alto K10 LXI,2015,120000,Petrol,Individual,Manual,Fourth & Above Owner,10,Maruti,12000.0
+Maruti Alto 800 LXI,2015,35000,Petrol,Individual,Manual,First Owner,10,Maruti,3500.0
+Maruti Zen Estilo LXI BSIII,2007,80000,Petrol,Individual,Manual,Third Owner,18,Maruti,4444.444444444444
